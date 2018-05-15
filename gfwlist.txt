@@ -1,6 +1,7 @@
 .qq.com
 .xiami.com
 ||music.163.com
+xxxxxxx.com
 githubusercontent.com
 xclient.info
 |http:\/\/85.17.73.31\/
