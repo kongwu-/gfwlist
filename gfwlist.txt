@@ -1,3 +1,4 @@
+.bdstatic.com
 .qq.com
 .xiami.com
 ||music.163.com
