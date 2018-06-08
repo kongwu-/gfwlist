@@ -1,6 +1,7 @@
 .vzuu.com
 .bdstatic.com
 .xiami.com
+.xiami.net
 .qq.com
 ||music.163.com
 xxxxxxx.com
