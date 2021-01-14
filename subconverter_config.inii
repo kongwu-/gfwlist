@@ -1,10 +1,14 @@
 [custom]
-custom_proxy_group=🔰 节点选择`select`[]♻️ 自动选择`[]DIRECT`.*
-custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`500
-custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🔰 节点选择`[]♻️ 自动选择
+custom_proxy_group=🔰 节点选择[]🛺 自动选择`[]🤏 手动选择`
+custom_proxy_group=🛺 自动选择[]🚀 延迟最低`[]🕊️ 故障切换`
+custom_proxy_group=🎯 全球直连`select[]DIRECT`[]🔰 节点选择`[]♻️ 自动选择
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🦘 安心服务[]DIRECT`[]🔰 节点选择`
 custom_proxy_group=🐟 漏网之鱼`select`[]🔰 节点选择`[]♻️ 自动选择`[]DIRECT`[]REJECT
+custom_proxy_group=🤏 手动选择`select`.*
+custom_proxy_group=🚀 延迟最低`url-test`.*`http://www.gstatic.com/generate_204`500
+custom_proxy_group=🕊️ 故障切换`fallback`.*`http://www.gstatic.com/generate_204`500
+
 
 surge_ruleset=🎯 全球直连,rules/LocalAreaNetwork.list
 surge_ruleset=🎯 全球直连,rules/ConnersHua/Surge/Ruleset/Unbreak.list
